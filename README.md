@@ -1,5 +1,7 @@
 # buatae.sh – Bash UTF‑8 ANSI Text Art Editor
 
+(buatae.gif)[buatae.gif]
+
 ## Abstract
 
 **buatae** is a full‑screen terminal art editor written entirely in **Bash**. It turns your terminal into a pixel‑style drawing canvas, using ANSI escape sequences for 24‑bit truecolor, mouse tracking, and cursor movement. The drawing is stored as a grid of glyphs and per‑cell foreground/background colors in associative arrays, making it portable across any terminal that supports modern escape codes (xterm, gnome‑terminal, kitty, urxvt, etc.).
