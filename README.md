@@ -1,6 +1,6 @@
 # buatae.sh – Bash UTF‑8 ANSI Text Art Editor
 
-(buatae.gif)[buatae.gif]
+![buatae.gif](buatae.gif)
 
 ## Abstract
 
