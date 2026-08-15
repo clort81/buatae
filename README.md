@@ -30,11 +30,11 @@ If no filename is given, it opens `default.ans`. Use `-h` or `--help` for a brie
 
 ### Data Files
 
-buatae loads palettes and brush character sets from `$HOME/.config/buatae/`. Two files are expected:
+buatae loads palettes and brush character sets from `$HOME/.config/buatae/`. Three files are expected:
 
 - `pal-artiste_520-20x26.txt` – a palette of 520 RGB triplets (space‑separated).
 - `chr-deluxe-131x5.bchr` – a glyph grid, each row containing glyphs separated by spaces.
-- `buatae_help.ans` – help text (names some unimplemented functions).
+- `buatae_help.ans` – help text.
 
 You can replace these with your own files. Additional palette/brush files can be added later (menu placeholders exist).
 
