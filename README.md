@@ -30,6 +30,7 @@ buatae loads palettes and brush character sets from `$HOME/.config/buatae/`. Two
 
 - `pal-artiste_520-20x26.txt` – a palette of 520 RGB triplets (space‑separated).
 - `chr-deluxe-131x5.bchr` – a glyph grid, each row containing glyphs separated by spaces.
+- `buatae_help.ans` – help text (names some unimplemented functions).
 
 You can replace these with your own files. Additional palette/brush files can be added later (menu placeholders exist).
 
