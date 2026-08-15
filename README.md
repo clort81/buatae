@@ -51,11 +51,11 @@ _buatae_ loads resource files from `$HOME/.config/buatae/`:
 
 ## The Undo/Redo & Shadow File System
 
-One of buatae’s standout features is **persistent, replayable edit history**. Every time you draw, the change is recorded in a **shadow file** that lives next to your artwork. This allows you to:
+One of buatae’s standout features is **persistent, replayable edit history** recorded in a **shadow file** that lives next to your artwork. This allows you to:
 
 - Undo/redo edits within a session
 - Reopen a file and **continue undoing/redoing** from where you left off (the history is loaded from disk)
-- Replay the entire editing session by examining the shadow file
+- Manually hack the editing session by loading the shadow file in a text editor.
 
 ### Shadow File Creation & Naming
 
