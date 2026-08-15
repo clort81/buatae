@@ -10,7 +10,7 @@ It's UTF-8 and 24-bit color native. Offers mouse tracking for easy selection and
 
 We wuz into TUI apps before GUI was widely available and are pleeezed that it has become trendy again. 
 
-Create ANSI art anywhere you have a compatible terminal, e.g. a headless server even on a text-only bulletin board system.
+Create ANSI art anywhere you have a compatible terminal, e.g. a headless server or even on a text-only bulletin board system.
 
 ---
 
