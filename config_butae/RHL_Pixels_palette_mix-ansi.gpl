@@ -1,0 +1,447 @@
+GIMP Palette
+Name: 
+Columns: 25
+# taken from DeviantArt: https://rhlpixels.deviantart.com/art/More-Palettes-573615110
+# [48;2;73;69;95m  [0m[48;2;73;69;95m  [0m[48;2;73;69;95m  [0m[48;2;73;69;95m  [0m[48;2;73;69;95m  [0m[48;2;73;69;95m  [0m[48;2;73;69;95m  [0m[48;2;73;69;95m  [0m[48;2;98;98;98m  [0m[48;2;237;228;73m  [0m[48;2;236;159;74m  [0m[48;2;226;56;56m  [0m[48;2;121;53;82m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;255;245;191m  [0m[48;2;98;98;98m  [0m[48;2;247;255;213m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;73;69;95m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;96;90;124m  [0m[48;2;98;98;98m  [0m[48;2;169;224;86m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;72;55;65m  [0m[48;2;98;98;98m  [0m[48;2;247;220;164m  [0m[48;2;247;220;164m  [0m[48;2;247;220;164m  [0m[48;2;247;220;164m  [0m[48;2;247;220;164m  [0m[48;2;98;98;98m  [0m[48;2;210;248;133m  [0m[48;2;243;239;65m  [0m[48;2;242;148;91m  [0m[48;2;231;107;71m  [0m[48;2;190;52;52m  [0m[0m
+# [48;2;73;69;95m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;100;107;121m  [0m[48;2;98;98;98m  [0m[48;2;50;231;145m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;72;55;65m  [0m[48;2;98;98;98m  [0m[48;2;151;162;136m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;247;220;164m  [0m[48;2;98;98;98m  [0m[48;2;88;233;171m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;73;69;95m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;105;145;156m  [0m[48;2;98;98;98m  [0m[48;2;53;140;145m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;72;55;65m  [0m[48;2;98;98;98m  [0m[48;2;119;140;125m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;247;220;164m  [0m[48;2;98;98;98m  [0m[48;2;41;217;231m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;73;69;95m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;140;184;193m  [0m[48;2;98;98;98m  [0m[48;2;78;74;111m  [0m[48;2;72;55;65m  [0m[48;2;72;55;65m  [0m[48;2;72;55;65m  [0m[48;2;98;98;98m  [0m[48;2;97;120;117m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;247;220;164m  [0m[48;2;98;98;98m  [0m[48;2;57;143;215m  [0m[48;2;49;102;128m  [0m[48;2;45;52;100m  [0m[48;2;49;43;66m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;73;69;95m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;162;230;210m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;74;84;85m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;253;188;130m  [0m[48;2;98;98;98m  [0m[48;2;125;68;147m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;49;43;66m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;73;69;95m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;198;253;244m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;54;65;63m  [0m[48;2;54;65;63m  [0m[48;2;54;65;63m  [0m[48;2;98;98;98m  [0m[48;2;235;148;122m  [0m[48;2;98;98;98m  [0m[48;2;102;53;88m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;49;43;66m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;41;48;71m  [0m[48;2;62;94;85m  [0m[48;2;60;128;100m  [0m[48;2;124;151;45m  [0m[48;2;173;193;30m  [0m[48;2;228;215;41m  [0m[48;2;252;228;135m  [0m[48;2;172;249;153m  [0m[48;2;97;231;193m  [0m[48;2;88;119;199m  [0m[48;2;105;75;160m  [0m[48;2;90;56;89m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;34;47;51m  [0m[48;2;98;98;98m  [0m[48;2;54;65;63m  [0m[48;2;98;98;98m  [0m[48;2;184;103;109m  [0m[48;2;98;98;98m  [0m[48;2;68;43;47m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;49;43;66m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;242;193;119m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;90;56;89m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;30;35;36m  [0m[48;2;98;98;98m  [0m[48;2;84;56;73m  [0m[48;2;134;43;45m  [0m[48;2;169;65;65m  [0m[48;2;98;98;98m  [0m[48;2;49;43;66m  [0m[48;2;49;43;66m  [0m[48;2;49;43;66m  [0m[48;2;49;43;66m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;247;255;225m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;220;124;97m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;90;56;89m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;233;247;138m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;196;102;102m  [0m[48;2;196;102;102m  [0m[48;2;196;102;102m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;90;56;89m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;248;241;116m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;217;176;55m  [0m[48;2;107;141;56m  [0m[48;2;85;105;58m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;164;77;77m  [0m[48;2;98;98;98m  [0m[48;2;196;102;102m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;90;56;89m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;213;198;96m  [0m[48;2;167;163;131m  [0m[48;2;115;140;111m  [0m[48;2;103;122;117m  [0m[48;2;84;91;103m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;194;104;61m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;169;98;46m  [0m[48;2;123;80;62m  [0m[48;2;119;68;96m  [0m[48;2;122;84;126m  [0m[48;2;159;94;153m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;90;56;89m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;168;148;87m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;34;78;83m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;139;77;67m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;90;56;89m  [0m[48;2;90;56;89m  [0m[48;2;90;56;89m  [0m[48;2;90;56;89m  [0m[48;2;90;56;89m  [0m[48;2;90;56;89m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;128;132;72m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;34;78;83m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;86;66;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;52;50;63m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;72;113;85m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;34;78;83m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;41;51;133m  [0m[48;2;117;53;116m  [0m[48;2;169;44;47m  [0m[48;2;219;53;57m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;34;78;83m  [0m[48;2;34;78;83m  [0m[48;2;34;78;83m  [0m[48;2;34;78;83m  [0m[48;2;34;78;83m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+# [48;2;28;34;89m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;20;22;50m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[48;2;98;98;98m  [0m[0m
+#
+ 73  69  95	RHL Pixels palette mix #Index 000 [48;2;73;69;95m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 001 [48;2;73;69;95m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 002 [48;2;73;69;95m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 003 [48;2;73;69;95m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 004 [48;2;73;69;95m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 005 [48;2;73;69;95m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 006 [48;2;73;69;95m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 007 [48;2;73;69;95m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 008 [48;2;98;98;98m  [0m 
+237 228  73	RHL Pixels palette mix #Index 009 [48;2;237;228;73m  [0m 
+236 159  74	RHL Pixels palette mix #Index 010 [48;2;236;159;74m  [0m 
+226  56  56	RHL Pixels palette mix #Index 011 [48;2;226;56;56m  [0m 
+121  53  82	RHL Pixels palette mix #Index 012 [48;2;121;53;82m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 013 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 014 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 015 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 016 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 017 [48;2;98;98;98m  [0m 
+255 245 191	RHL Pixels palette mix #Index 018 [48;2;255;245;191m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 019 [48;2;98;98;98m  [0m 
+247 255 213	RHL Pixels palette mix #Index 020 [48;2;247;255;213m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 021 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 022 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 023 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 024 [48;2;98;98;98m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 025 [48;2;73;69;95m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 026 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 027 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 028 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 029 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 030 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 031 [48;2;98;98;98m  [0m 
+ 96  90 124	RHL Pixels palette mix #Index 032 [48;2;96;90;124m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 033 [48;2;98;98;98m  [0m 
+169 224  86	RHL Pixels palette mix #Index 034 [48;2;169;224;86m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 035 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 036 [48;2;98;98;98m  [0m 
+ 72  55  65	RHL Pixels palette mix #Index 037 [48;2;72;55;65m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 038 [48;2;98;98;98m  [0m 
+247 220 164	RHL Pixels palette mix #Index 039 [48;2;247;220;164m  [0m 
+247 220 164	RHL Pixels palette mix #Index 040 [48;2;247;220;164m  [0m 
+247 220 164	RHL Pixels palette mix #Index 041 [48;2;247;220;164m  [0m 
+247 220 164	RHL Pixels palette mix #Index 042 [48;2;247;220;164m  [0m 
+247 220 164	RHL Pixels palette mix #Index 043 [48;2;247;220;164m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 044 [48;2;98;98;98m  [0m 
+210 248 133	RHL Pixels palette mix #Index 045 [48;2;210;248;133m  [0m 
+243 239  65	RHL Pixels palette mix #Index 046 [48;2;243;239;65m  [0m 
+242 148  91	RHL Pixels palette mix #Index 047 [48;2;242;148;91m  [0m 
+231 107  71	RHL Pixels palette mix #Index 048 [48;2;231;107;71m  [0m 
+190  52  52	RHL Pixels palette mix #Index 049 [48;2;190;52;52m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 050 [48;2;73;69;95m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 051 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 052 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 053 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 054 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 055 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 056 [48;2;98;98;98m  [0m 
+100 107 121	RHL Pixels palette mix #Index 057 [48;2;100;107;121m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 058 [48;2;98;98;98m  [0m 
+ 50 231 145	RHL Pixels palette mix #Index 059 [48;2;50;231;145m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 060 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 061 [48;2;98;98;98m  [0m 
+ 72  55  65	RHL Pixels palette mix #Index 062 [48;2;72;55;65m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 063 [48;2;98;98;98m  [0m 
+151 162 136	RHL Pixels palette mix #Index 064 [48;2;151;162;136m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 065 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 066 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 067 [48;2;98;98;98m  [0m 
+247 220 164	RHL Pixels palette mix #Index 068 [48;2;247;220;164m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 069 [48;2;98;98;98m  [0m 
+ 88 233 171	RHL Pixels palette mix #Index 070 [48;2;88;233;171m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 071 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 072 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 073 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 074 [48;2;98;98;98m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 075 [48;2;73;69;95m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 076 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 077 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 078 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 079 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 080 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 081 [48;2;98;98;98m  [0m 
+105 145 156	RHL Pixels palette mix #Index 082 [48;2;105;145;156m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 083 [48;2;98;98;98m  [0m 
+ 53 140 145	RHL Pixels palette mix #Index 084 [48;2;53;140;145m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 085 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 086 [48;2;98;98;98m  [0m 
+ 72  55  65	RHL Pixels palette mix #Index 087 [48;2;72;55;65m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 088 [48;2;98;98;98m  [0m 
+119 140 125	RHL Pixels palette mix #Index 089 [48;2;119;140;125m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 090 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 091 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 092 [48;2;98;98;98m  [0m 
+247 220 164	RHL Pixels palette mix #Index 093 [48;2;247;220;164m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 094 [48;2;98;98;98m  [0m 
+ 41 217 231	RHL Pixels palette mix #Index 095 [48;2;41;217;231m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 096 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 097 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 098 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 099 [48;2;98;98;98m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 100 [48;2;73;69;95m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 101 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 102 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 103 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 104 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 105 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 106 [48;2;98;98;98m  [0m 
+140 184 193	RHL Pixels palette mix #Index 107 [48;2;140;184;193m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 108 [48;2;98;98;98m  [0m 
+ 78  74 111	RHL Pixels palette mix #Index 109 [48;2;78;74;111m  [0m 
+ 72  55  65	RHL Pixels palette mix #Index 110 [48;2;72;55;65m  [0m 
+ 72  55  65	RHL Pixels palette mix #Index 111 [48;2;72;55;65m  [0m 
+ 72  55  65	RHL Pixels palette mix #Index 112 [48;2;72;55;65m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 113 [48;2;98;98;98m  [0m 
+ 97 120 117	RHL Pixels palette mix #Index 114 [48;2;97;120;117m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 115 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 116 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 117 [48;2;98;98;98m  [0m 
+247 220 164	RHL Pixels palette mix #Index 118 [48;2;247;220;164m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 119 [48;2;98;98;98m  [0m 
+ 57 143 215	RHL Pixels palette mix #Index 120 [48;2;57;143;215m  [0m 
+ 49 102 128	RHL Pixels palette mix #Index 121 [48;2;49;102;128m  [0m 
+ 45  52 100	RHL Pixels palette mix #Index 122 [48;2;45;52;100m  [0m 
+ 49  43  66	RHL Pixels palette mix #Index 123 [48;2;49;43;66m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 124 [48;2;98;98;98m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 125 [48;2;73;69;95m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 126 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 127 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 128 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 129 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 130 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 131 [48;2;98;98;98m  [0m 
+162 230 210	RHL Pixels palette mix #Index 132 [48;2;162;230;210m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 133 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 134 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 135 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 136 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 137 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 138 [48;2;98;98;98m  [0m 
+ 74  84  85	RHL Pixels palette mix #Index 139 [48;2;74;84;85m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 140 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 141 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 142 [48;2;98;98;98m  [0m 
+253 188 130	RHL Pixels palette mix #Index 143 [48;2;253;188;130m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 144 [48;2;98;98;98m  [0m 
+125  68 147	RHL Pixels palette mix #Index 145 [48;2;125;68;147m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 146 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 147 [48;2;98;98;98m  [0m 
+ 49  43  66	RHL Pixels palette mix #Index 148 [48;2;49;43;66m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 149 [48;2;98;98;98m  [0m 
+ 73  69  95	RHL Pixels palette mix #Index 150 [48;2;73;69;95m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 151 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 152 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 153 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 154 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 155 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 156 [48;2;98;98;98m  [0m 
+198 253 244	RHL Pixels palette mix #Index 157 [48;2;198;253;244m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 158 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 159 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 160 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 161 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 162 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 163 [48;2;98;98;98m  [0m 
+ 54  65  63	RHL Pixels palette mix #Index 164 [48;2;54;65;63m  [0m 
+ 54  65  63	RHL Pixels palette mix #Index 165 [48;2;54;65;63m  [0m 
+ 54  65  63	RHL Pixels palette mix #Index 166 [48;2;54;65;63m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 167 [48;2;98;98;98m  [0m 
+235 148 122	RHL Pixels palette mix #Index 168 [48;2;235;148;122m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 169 [48;2;98;98;98m  [0m 
+102  53  88	RHL Pixels palette mix #Index 170 [48;2;102;53;88m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 171 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 172 [48;2;98;98;98m  [0m 
+ 49  43  66	RHL Pixels palette mix #Index 173 [48;2;49;43;66m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 174 [48;2;98;98;98m  [0m 
+ 41  48  71	RHL Pixels palette mix #Index 175 [48;2;41;48;71m  [0m 
+ 62  94  85	RHL Pixels palette mix #Index 176 [48;2;62;94;85m  [0m 
+ 60 128 100	RHL Pixels palette mix #Index 177 [48;2;60;128;100m  [0m 
+124 151  45	RHL Pixels palette mix #Index 178 [48;2;124;151;45m  [0m 
+173 193  30	RHL Pixels palette mix #Index 179 [48;2;173;193;30m  [0m 
+228 215  41	RHL Pixels palette mix #Index 180 [48;2;228;215;41m  [0m 
+252 228 135	RHL Pixels palette mix #Index 181 [48;2;252;228;135m  [0m 
+172 249 153	RHL Pixels palette mix #Index 182 [48;2;172;249;153m  [0m 
+ 97 231 193	RHL Pixels palette mix #Index 183 [48;2;97;231;193m  [0m 
+ 88 119 199	RHL Pixels palette mix #Index 184 [48;2;88;119;199m  [0m 
+105  75 160	RHL Pixels palette mix #Index 185 [48;2;105;75;160m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 186 [48;2;90;56;89m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 187 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 188 [48;2;98;98;98m  [0m 
+ 34  47  51	RHL Pixels palette mix #Index 189 [48;2;34;47;51m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 190 [48;2;98;98;98m  [0m 
+ 54  65  63	RHL Pixels palette mix #Index 191 [48;2;54;65;63m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 192 [48;2;98;98;98m  [0m 
+184 103 109	RHL Pixels palette mix #Index 193 [48;2;184;103;109m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 194 [48;2;98;98;98m  [0m 
+ 68  43  47	RHL Pixels palette mix #Index 195 [48;2;68;43;47m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 196 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 197 [48;2;98;98;98m  [0m 
+ 49  43  66	RHL Pixels palette mix #Index 198 [48;2;49;43;66m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 199 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 200 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 201 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 202 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 203 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 204 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 205 [48;2;98;98;98m  [0m 
+242 193 119	RHL Pixels palette mix #Index 206 [48;2;242;193;119m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 207 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 208 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 209 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 210 [48;2;98;98;98m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 211 [48;2;90;56;89m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 212 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 213 [48;2;98;98;98m  [0m 
+ 30  35  36	RHL Pixels palette mix #Index 214 [48;2;30;35;36m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 215 [48;2;98;98;98m  [0m 
+ 84  56  73	RHL Pixels palette mix #Index 216 [48;2;84;56;73m  [0m 
+134  43  45	RHL Pixels palette mix #Index 217 [48;2;134;43;45m  [0m 
+169  65  65	RHL Pixels palette mix #Index 218 [48;2;169;65;65m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 219 [48;2;98;98;98m  [0m 
+ 49  43  66	RHL Pixels palette mix #Index 220 [48;2;49;43;66m  [0m 
+ 49  43  66	RHL Pixels palette mix #Index 221 [48;2;49;43;66m  [0m 
+ 49  43  66	RHL Pixels palette mix #Index 222 [48;2;49;43;66m  [0m 
+ 49  43  66	RHL Pixels palette mix #Index 223 [48;2;49;43;66m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 224 [48;2;98;98;98m  [0m 
+247 255 225	RHL Pixels palette mix #Index 225 [48;2;247;255;225m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 226 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 227 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 228 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 229 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 230 [48;2;98;98;98m  [0m 
+220 124  97	RHL Pixels palette mix #Index 231 [48;2;220;124;97m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 232 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 233 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 234 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 235 [48;2;98;98;98m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 236 [48;2;90;56;89m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 237 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 238 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 239 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 240 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 241 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 242 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 243 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 244 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 245 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 246 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 247 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 248 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 249 [48;2;98;98;98m  [0m 
+233 247 138	RHL Pixels palette mix #Index 250 [48;2;233;247;138m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 251 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 252 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 253 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 254 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 255 [48;2;98;98;98m  [0m 
+196 102 102	RHL Pixels palette mix #Index 256 [48;2;196;102;102m  [0m 
+196 102 102	RHL Pixels palette mix #Index 257 [48;2;196;102;102m  [0m 
+196 102 102	RHL Pixels palette mix #Index 258 [48;2;196;102;102m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 259 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 260 [48;2;98;98;98m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 261 [48;2;90;56;89m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 262 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 263 [48;2;98;98;98m  [0m 
+248 241 116	RHL Pixels palette mix #Index 264 [48;2;248;241;116m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 265 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 266 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 267 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 268 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 269 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 270 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 271 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 272 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 273 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 274 [48;2;98;98;98m  [0m 
+217 176  55	RHL Pixels palette mix #Index 275 [48;2;217;176;55m  [0m 
+107 141  56	RHL Pixels palette mix #Index 276 [48;2;107;141;56m  [0m 
+ 85 105  58	RHL Pixels palette mix #Index 277 [48;2;85;105;58m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 278 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 279 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 280 [48;2;98;98;98m  [0m 
+164  77  77	RHL Pixels palette mix #Index 281 [48;2;164;77;77m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 282 [48;2;98;98;98m  [0m 
+196 102 102	RHL Pixels palette mix #Index 283 [48;2;196;102;102m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 284 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 285 [48;2;98;98;98m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 286 [48;2;90;56;89m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 287 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 288 [48;2;98;98;98m  [0m 
+213 198  96	RHL Pixels palette mix #Index 289 [48;2;213;198;96m  [0m 
+167 163 131	RHL Pixels palette mix #Index 290 [48;2;167;163;131m  [0m 
+115 140 111	RHL Pixels palette mix #Index 291 [48;2;115;140;111m  [0m 
+103 122 117	RHL Pixels palette mix #Index 292 [48;2;103;122;117m  [0m 
+ 84  91 103	RHL Pixels palette mix #Index 293 [48;2;84;91;103m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 294 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 295 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 296 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 297 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 298 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 299 [48;2;98;98;98m  [0m 
+194 104  61	RHL Pixels palette mix #Index 300 [48;2;194;104;61m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 301 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 302 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 303 [48;2;98;98;98m  [0m 
+169  98  46	RHL Pixels palette mix #Index 304 [48;2;169;98;46m  [0m 
+123  80  62	RHL Pixels palette mix #Index 305 [48;2;123;80;62m  [0m 
+119  68  96	RHL Pixels palette mix #Index 306 [48;2;119;68;96m  [0m 
+122  84 126	RHL Pixels palette mix #Index 307 [48;2;122;84;126m  [0m 
+159  94 153	RHL Pixels palette mix #Index 308 [48;2;159;94;153m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 309 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 310 [48;2;98;98;98m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 311 [48;2;90;56;89m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 312 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 313 [48;2;98;98;98m  [0m 
+168 148  87	RHL Pixels palette mix #Index 314 [48;2;168;148;87m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 315 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 316 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 317 [48;2;98;98;98m  [0m 
+ 34  78  83	RHL Pixels palette mix #Index 318 [48;2;34;78;83m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 319 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 320 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 321 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 322 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 323 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 324 [48;2;98;98;98m  [0m 
+139  77  67	RHL Pixels palette mix #Index 325 [48;2;139;77;67m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 326 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 327 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 328 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 329 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 330 [48;2;98;98;98m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 331 [48;2;90;56;89m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 332 [48;2;90;56;89m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 333 [48;2;90;56;89m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 334 [48;2;90;56;89m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 335 [48;2;90;56;89m  [0m 
+ 90  56  89	RHL Pixels palette mix #Index 336 [48;2;90;56;89m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 337 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 338 [48;2;98;98;98m  [0m 
+128 132  72	RHL Pixels palette mix #Index 339 [48;2;128;132;72m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 340 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 341 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 342 [48;2;98;98;98m  [0m 
+ 34  78  83	RHL Pixels palette mix #Index 343 [48;2;34;78;83m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 344 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 345 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 346 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 347 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 348 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 349 [48;2;98;98;98m  [0m 
+ 86  66  98	RHL Pixels palette mix #Index 350 [48;2;86;66;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 351 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 352 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 353 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 354 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 355 [48;2;98;98;98m  [0m 
+ 52  50  63	RHL Pixels palette mix #Index 356 [48;2;52;50;63m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 357 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 358 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 359 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 360 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 361 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 362 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 363 [48;2;98;98;98m  [0m 
+ 72 113  85	RHL Pixels palette mix #Index 364 [48;2;72;113;85m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 365 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 366 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 367 [48;2;98;98;98m  [0m 
+ 34  78  83	RHL Pixels palette mix #Index 368 [48;2;34;78;83m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 369 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 370 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 371 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 372 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 373 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 374 [48;2;98;98;98m  [0m 
+ 41  51 133	RHL Pixels palette mix #Index 375 [48;2;41;51;133m  [0m 
+117  53 116	RHL Pixels palette mix #Index 376 [48;2;117;53;116m  [0m 
+169  44  47	RHL Pixels palette mix #Index 377 [48;2;169;44;47m  [0m 
+219  53  57	RHL Pixels palette mix #Index 378 [48;2;219;53;57m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 379 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 380 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 381 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 382 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 383 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 384 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 385 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 386 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 387 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 388 [48;2;98;98;98m  [0m 
+ 34  78  83	RHL Pixels palette mix #Index 389 [48;2;34;78;83m  [0m 
+ 34  78  83	RHL Pixels palette mix #Index 390 [48;2;34;78;83m  [0m 
+ 34  78  83	RHL Pixels palette mix #Index 391 [48;2;34;78;83m  [0m 
+ 34  78  83	RHL Pixels palette mix #Index 392 [48;2;34;78;83m  [0m 
+ 34  78  83	RHL Pixels palette mix #Index 393 [48;2;34;78;83m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 394 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 395 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 396 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 397 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 398 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 399 [48;2;98;98;98m  [0m 
+ 28  34  89	RHL Pixels palette mix #Index 400 [48;2;28;34;89m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 401 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 402 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 403 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 404 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 405 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 406 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 407 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 408 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 409 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 410 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 411 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 412 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 413 [48;2;98;98;98m  [0m 
+ 20  22  50	RHL Pixels palette mix #Index 414 [48;2;20;22;50m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 415 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 416 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 417 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 418 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 419 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 420 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 421 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 422 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 423 [48;2;98;98;98m  [0m 
+ 98  98  98	RHL Pixels palette mix #Index 424 [48;2;98;98;98m  [0m 

@@ -1,0 +1,12 @@
+GIMP Palette
+#
+# Thanks to Planet Virtual Boy for the contribution
+# http://www.planetvb.com/
+#
+# [48;2;0;0;0m  [0m[48;2;85;0;0m  [0m[0m
+# [48;2;170;0;0m  [0m[48;2;255;0;0m  [0m[0m
+#
+  0   0   0	Untitled #Index 000 [48;2;0;0;0m  [0m 
+ 85   0   0	Untitled #Index 001 [48;2;85;0;0m  [0m 
+170   0   0	Untitled #Index 002 [48;2;170;0;0m  [0m 
+255   0   0	Untitled #Index 003 [48;2;255;0;0m  [0m 

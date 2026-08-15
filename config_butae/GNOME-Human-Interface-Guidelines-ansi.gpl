@@ -1,0 +1,45 @@
+GIMP Palette
+Name: GNOME Human Interface Guidelines
+Columns: 4
+# https://developer.gnome.org/hig-book/stable/design-color.html.en#Palette
+# [48;2;234;232;227m  [0m[48;2;186;181;171m  [0m[48;2;128;125;116m  [0m[48;2;86;82;72m  [0m[0m
+# [48;2;197;210;200m  [0m[48;2;131;166;127m  [0m[48;2;93;117;85m  [0m[48;2;68;86;50m  [0m[0m
+# [48;2;224;182;175m  [0m[48;2;193;102;90m  [0m[48;2;136;70;49m  [0m[48;2;102;56;34m  [0m[0m
+# [48;2;173;167;200m  [0m[48;2;136;127;163m  [0m[48;2;98;91;129m  [0m[48;2;73;64;102m  [0m[0m
+# [48;2;157;184;210m  [0m[48;2;117;144;174m  [0m[48;2;75;105;131m  [0m[48;2;49;78;108m  [0m[0m
+# [48;2;239;224;205m  [0m[48;2;224;195;158m  [0m[48;2;179;145;105m  [0m[48;2;130;102;71m  [0m[0m
+# [48;2;223;66;30m  [0m[48;2;153;0;0m  [0m[48;2;238;214;128m  [0m[48;2;209;148;12m  [0m[0m
+# [48;2;70;160;70m  [0m[48;2;38;119;38m  [0m[48;2;255;255;255m  [0m[48;2;0;0;0m  [0m[0m
+#
+234 232 227	Basic 3D hilight #Index 000 [48;2;234;232;227m  [0m 
+186 181 171	Basic 3D medium #Index 001 [48;2;186;181;171m  [0m 
+128 125 116	Basic 3D dark #Index 002 [48;2;128;125;116m  [0m 
+ 86  82  72	Basic 3D shadow #Index 003 [48;2;86;82;72m  [0m 
+197 210 200	Green hilight #Index 004 [48;2;197;210;200m  [0m 
+131 166 127	Green medium #Index 005 [48;2;131;166;127m  [0m 
+ 93 117  85	Green dark #Index 006 [48;2;93;117;85m  [0m 
+ 68  86  50	Green shadow #Index 007 [48;2;68;86;50m  [0m 
+224 182 175	Red hilight #Index 008 [48;2;224;182;175m  [0m 
+193 102  90	Red medium #Index 009 [48;2;193;102;90m  [0m 
+136  70  49	Red dark #Index 010 [48;2;136;70;49m  [0m 
+102  56  34	Red shadow #Index 011 [48;2;102;56;34m  [0m 
+173 167 200	Purple hilight #Index 012 [48;2;173;167;200m  [0m 
+136 127 163	Purple medium #Index 013 [48;2;136;127;163m  [0m 
+ 98  91 129	Purple dark #Index 014 [48;2;98;91;129m  [0m 
+ 73  64 102	Purple shadow #Index 015 [48;2;73;64;102m  [0m 
+157 184 210	Blue hilight #Index 016 [48;2;157;184;210m  [0m 
+117 144 174	Blue medium #Index 017 [48;2;117;144;174m  [0m 
+ 75 105 131	Blue dark #Index 018 [48;2;75;105;131m  [0m 
+ 49  78 108	Blue shadow #Index 019 [48;2;49;78;108m  [0m 
+239 224 205	Face/Skin hilight #Index 020 [48;2;239;224;205m  [0m 
+224 195 158	Face/Skin medium #Index 021 [48;2;224;195;158m  [0m 
+179 145 105	Face/Skin dark #Index 022 [48;2;179;145;105m  [0m 
+130 102  71	Face/Skin shadow #Index 023 [48;2;130;102;71m  [0m 
+223  66  30	Accent Red #Index 024 [48;2;223;66;30m  [0m 
+153   0   0	Accent Red dark #Index 025 [48;2;153;0;0m  [0m 
+238 214 128	Accent yellow #Index 026 [48;2;238;214;128m  [0m 
+209 148  12	Accent yellow dark #Index 027 [48;2;209;148;12m  [0m 
+ 70 160  70	Accent green #Index 028 [48;2;70;160;70m  [0m 
+ 38 119  38	Accent green dark #Index 029 [48;2;38;119;38m  [0m 
+255 255 255	White #Index 030 [48;2;255;255;255m  [0m 
+  0   0   0	Black #Index 031 [48;2;0;0;0m  [0m 

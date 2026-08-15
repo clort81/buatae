@@ -1,0 +1,425 @@
+GIMP Palette
+Name: 
+Columns: 20
+# Extracted from different face pixel graphics
+# [48;2;255;191;178m  [0m[48;2;0;0;0m  [0m[48;2;63;35;17m  [0m[48;2;0;0;0m  [0m[48;2;20;49;61m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;255;113;113m  [0m[48;2;0;0;0m  [0m[48;2;255;161;113m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;255;212;204m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;252;156;138m  [0m[48;2;0;0;0m  [0m[48;2;89;48;21m  [0m[48;2;0;0;0m  [0m[48;2;39;95;115m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;230;97;95m  [0m[48;2;0;0;0m  [0m[48;2;230;141;95m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;255;191;178m  [0m[48;2;245;181;169m  [0m[48;2;255;191;178m  [0m[48;2;255;170;153m  [0m[48;2;255;136;113m  [0m[48;2;230;118;95m  [0m[0m
+# [48;2;224;140;123m  [0m[48;2;0;0;0m  [0m[48;2;114;74;31m  [0m[48;2;0;0;0m  [0m[48;2;49;128;161m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;202;83;83m  [0m[48;2;0;0;0m  [0m[48;2;202;123;83m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;252;156;138m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;196;122;107m  [0m[0m
+# [48;2;196;122;107m  [0m[48;2;0;0;0m  [0m[48;2;224;140;123m  [0m[48;2;0;0;0m  [0m[48;2;153;153;153m  [0m[48;2;51;51;51m  [0m[48;2;0;0;0m  [0m[48;2;173;72;72m  [0m[48;2;0;0;0m  [0m[48;2;173;105;72m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;190;141;131m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;190;141;131m  [0m[48;2;0;0;0m  [0m[48;2;140;87;76m  [0m[48;2;0;0;0m  [0m[48;2;179;179;179m  [0m[48;2;77;77;77m  [0m[48;2;0;0;0m  [0m[48;2;144;60;60m  [0m[48;2;0;0;0m  [0m[48;2;144;88;60m  [0m[48;2;112;69;61m  [0m[48;2;84;51;46m  [0m[48;2;56;34;31m  [0m[48;2;0;0;0m  [0m[48;2;163;120;112m  [0m[48;2;0;0;0m  [0m[48;2;105;62;27m  [0m[48;2;86;44;10m  [0m[48;2;64;33;8m  [0m[48;2;46;24;11m  [0m[0m
+# [48;2;168;105;92m  [0m[48;2;0;0;0m  [0m[48;2;112;69;61m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;26;26;26m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;202;103;83m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;136;100;93m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;140;87;76m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;234;232;211m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;112;69;61m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;105;72;65m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;173;72;72m  [0m[48;2;202;83;83m  [0m[48;2;173;72;72m  [0m[48;2;144;60;60m  [0m[48;2;0;0;0m  [0m[48;2;185;185;173m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;108;80;75m  [0m[48;2;87;64;61m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;112;69;61m  [0m[48;2;84;51;46m  [0m[48;2;56;34;31m  [0m[48;2;26;26;26m  [0m[0m
+# [48;2;230;97;95m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;136;100;93m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;69;50;34m  [0m[48;2;49;34;22m  [0m[48;2;30;22;18m  [0m[0m
+# [48;2;202;103;83m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;163;120;112m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;255;136;113m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;153;153;153m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;202;103;83m  [0m[48;2;196;122;107m  [0m[48;2;230;141;95m  [0m[48;2;255;170;153m  [0m[48;2;252;156;138m  [0m[48;2;255;212;204m  [0m[0m
+# [48;2;84;51;46m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;245;181;169m  [0m[48;2;0;0;0m  [0m[48;2;179;179;179m  [0m[0m
+# [48;2;56;34;31m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;217;161;149m  [0m[48;2;0;0;0m  [0m[48;2;153;153;153m  [0m[0m
+# [48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;190;141;131m  [0m[48;2;0;0;0m  [0m[48;2;153;153;153m  [0m[0m
+# [48;2;255;187;153m  [0m[48;2;255;161;113m  [0m[48;2;230;141;95m  [0m[48;2;196;122;107m  [0m[48;2;136;100;93m  [0m[48;2;112;78;71m  [0m[48;2;100;67;60m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;196;122;107m  [0m[48;2;0;0;0m  [0m[48;2;128;128;128m  [0m[0m
+# [48;2;255;212;204m  [0m[48;2;217;161;149m  [0m[48;2;196;122;107m  [0m[48;2;173;105;72m  [0m[48;2;202;142;83m  [0m[48;2;173;121;72m  [0m[48;2;108;91;75m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;168;105;92m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;140;87;76m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;105;72;65m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+# [48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[48;2;0;0;0m  [0m[0m
+#
+255 191 178	SkinTones #Index 000 [48;2;255;191;178m  [0m 
+  0   0   0	SkinTones #Index 001 [48;2;0;0;0m  [0m 
+ 63  35  17	SkinTones #Index 002 [48;2;63;35;17m  [0m 
+  0   0   0	SkinTones #Index 003 [48;2;0;0;0m  [0m 
+ 20  49  61	SkinTones #Index 004 [48;2;20;49;61m  [0m 
+  0   0   0	SkinTones #Index 005 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 006 [48;2;0;0;0m  [0m 
+255 113 113	SkinTones #Index 007 [48;2;255;113;113m  [0m 
+  0   0   0	SkinTones #Index 008 [48;2;0;0;0m  [0m 
+255 161 113	SkinTones #Index 009 [48;2;255;161;113m  [0m 
+  0   0   0	SkinTones #Index 010 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 011 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 012 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 013 [48;2;0;0;0m  [0m 
+255 212 204	SkinTones #Index 014 [48;2;255;212;204m  [0m 
+  0   0   0	SkinTones #Index 015 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 016 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 017 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 018 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 019 [48;2;0;0;0m  [0m 
+252 156 138	SkinTones #Index 020 [48;2;252;156;138m  [0m 
+  0   0   0	SkinTones #Index 021 [48;2;0;0;0m  [0m 
+ 89  48  21	SkinTones #Index 022 [48;2;89;48;21m  [0m 
+  0   0   0	SkinTones #Index 023 [48;2;0;0;0m  [0m 
+ 39  95 115	SkinTones #Index 024 [48;2;39;95;115m  [0m 
+  0   0   0	SkinTones #Index 025 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 026 [48;2;0;0;0m  [0m 
+230  97  95	SkinTones #Index 027 [48;2;230;97;95m  [0m 
+  0   0   0	SkinTones #Index 028 [48;2;0;0;0m  [0m 
+230 141  95	SkinTones #Index 029 [48;2;230;141;95m  [0m 
+  0   0   0	SkinTones #Index 030 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 031 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 032 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 033 [48;2;0;0;0m  [0m 
+255 191 178	SkinTones #Index 034 [48;2;255;191;178m  [0m 
+245 181 169	SkinTones #Index 035 [48;2;245;181;169m  [0m 
+255 191 178	SkinTones #Index 036 [48;2;255;191;178m  [0m 
+255 170 153	SkinTones #Index 037 [48;2;255;170;153m  [0m 
+255 136 113	SkinTones #Index 038 [48;2;255;136;113m  [0m 
+230 118  95	SkinTones #Index 039 [48;2;230;118;95m  [0m 
+224 140 123	SkinTones #Index 040 [48;2;224;140;123m  [0m 
+  0   0   0	SkinTones #Index 041 [48;2;0;0;0m  [0m 
+114  74  31	SkinTones #Index 042 [48;2;114;74;31m  [0m 
+  0   0   0	SkinTones #Index 043 [48;2;0;0;0m  [0m 
+ 49 128 161	SkinTones #Index 044 [48;2;49;128;161m  [0m 
+  0   0   0	SkinTones #Index 045 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 046 [48;2;0;0;0m  [0m 
+202  83  83	SkinTones #Index 047 [48;2;202;83;83m  [0m 
+  0   0   0	SkinTones #Index 048 [48;2;0;0;0m  [0m 
+202 123  83	SkinTones #Index 049 [48;2;202;123;83m  [0m 
+  0   0   0	SkinTones #Index 050 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 051 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 052 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 053 [48;2;0;0;0m  [0m 
+252 156 138	SkinTones #Index 054 [48;2;252;156;138m  [0m 
+  0   0   0	SkinTones #Index 055 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 056 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 057 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 058 [48;2;0;0;0m  [0m 
+196 122 107	SkinTones #Index 059 [48;2;196;122;107m  [0m 
+196 122 107	SkinTones #Index 060 [48;2;196;122;107m  [0m 
+  0   0   0	SkinTones #Index 061 [48;2;0;0;0m  [0m 
+224 140 123	SkinTones #Index 062 [48;2;224;140;123m  [0m 
+  0   0   0	SkinTones #Index 063 [48;2;0;0;0m  [0m 
+153 153 153	SkinTones #Index 064 [48;2;153;153;153m  [0m 
+ 51  51  51	SkinTones #Index 065 [48;2;51;51;51m  [0m 
+  0   0   0	SkinTones #Index 066 [48;2;0;0;0m  [0m 
+173  72  72	SkinTones #Index 067 [48;2;173;72;72m  [0m 
+  0   0   0	SkinTones #Index 068 [48;2;0;0;0m  [0m 
+173 105  72	SkinTones #Index 069 [48;2;173;105;72m  [0m 
+  0   0   0	SkinTones #Index 070 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 071 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 072 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 073 [48;2;0;0;0m  [0m 
+190 141 131	SkinTones #Index 074 [48;2;190;141;131m  [0m 
+  0   0   0	SkinTones #Index 075 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 076 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 077 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 078 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 079 [48;2;0;0;0m  [0m 
+190 141 131	SkinTones #Index 080 [48;2;190;141;131m  [0m 
+  0   0   0	SkinTones #Index 081 [48;2;0;0;0m  [0m 
+140  87  76	SkinTones #Index 082 [48;2;140;87;76m  [0m 
+  0   0   0	SkinTones #Index 083 [48;2;0;0;0m  [0m 
+179 179 179	SkinTones #Index 084 [48;2;179;179;179m  [0m 
+ 77  77  77	SkinTones #Index 085 [48;2;77;77;77m  [0m 
+  0   0   0	SkinTones #Index 086 [48;2;0;0;0m  [0m 
+144  60  60	SkinTones #Index 087 [48;2;144;60;60m  [0m 
+  0   0   0	SkinTones #Index 088 [48;2;0;0;0m  [0m 
+144  88  60	SkinTones #Index 089 [48;2;144;88;60m  [0m 
+112  69  61	SkinTones #Index 090 [48;2;112;69;61m  [0m 
+ 84  51  46	SkinTones #Index 091 [48;2;84;51;46m  [0m 
+ 56  34  31	SkinTones #Index 092 [48;2;56;34;31m  [0m 
+  0   0   0	SkinTones #Index 093 [48;2;0;0;0m  [0m 
+163 120 112	SkinTones #Index 094 [48;2;163;120;112m  [0m 
+  0   0   0	SkinTones #Index 095 [48;2;0;0;0m  [0m 
+105  62  27	SkinTones #Index 096 [48;2;105;62;27m  [0m 
+ 86  44  10	SkinTones #Index 097 [48;2;86;44;10m  [0m 
+ 64  33   8	SkinTones #Index 098 [48;2;64;33;8m  [0m 
+ 46  24  11	SkinTones #Index 099 [48;2;46;24;11m  [0m 
+168 105  92	SkinTones #Index 100 [48;2;168;105;92m  [0m 
+  0   0   0	SkinTones #Index 101 [48;2;0;0;0m  [0m 
+112  69  61	SkinTones #Index 102 [48;2;112;69;61m  [0m 
+  0   0   0	SkinTones #Index 103 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 104 [48;2;0;0;0m  [0m 
+ 26  26  26	SkinTones #Index 105 [48;2;26;26;26m  [0m 
+  0   0   0	SkinTones #Index 106 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 107 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 108 [48;2;0;0;0m  [0m 
+202 103  83	SkinTones #Index 109 [48;2;202;103;83m  [0m 
+  0   0   0	SkinTones #Index 110 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 111 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 112 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 113 [48;2;0;0;0m  [0m 
+136 100  93	SkinTones #Index 114 [48;2;136;100;93m  [0m 
+  0   0   0	SkinTones #Index 115 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 116 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 117 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 118 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 119 [48;2;0;0;0m  [0m 
+140  87  76	SkinTones #Index 120 [48;2;140;87;76m  [0m 
+  0   0   0	SkinTones #Index 121 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 122 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 123 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 124 [48;2;0;0;0m  [0m 
+234 232 211	SkinTones #Index 125 [48;2;234;232;211m  [0m 
+  0   0   0	SkinTones #Index 126 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 127 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 128 [48;2;0;0;0m  [0m 
+112  69  61	SkinTones #Index 129 [48;2;112;69;61m  [0m 
+  0   0   0	SkinTones #Index 130 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 131 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 132 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 133 [48;2;0;0;0m  [0m 
+105  72  65	SkinTones #Index 134 [48;2;105;72;65m  [0m 
+  0   0   0	SkinTones #Index 135 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 136 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 137 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 138 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 139 [48;2;0;0;0m  [0m 
+173  72  72	SkinTones #Index 140 [48;2;173;72;72m  [0m 
+202  83  83	SkinTones #Index 141 [48;2;202;83;83m  [0m 
+173  72  72	SkinTones #Index 142 [48;2;173;72;72m  [0m 
+144  60  60	SkinTones #Index 143 [48;2;144;60;60m  [0m 
+  0   0   0	SkinTones #Index 144 [48;2;0;0;0m  [0m 
+185 185 173	SkinTones #Index 145 [48;2;185;185;173m  [0m 
+  0   0   0	SkinTones #Index 146 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 147 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 148 [48;2;0;0;0m  [0m 
+108  80  75	SkinTones #Index 149 [48;2;108;80;75m  [0m 
+ 87  64  61	SkinTones #Index 150 [48;2;87;64;61m  [0m 
+  0   0   0	SkinTones #Index 151 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 152 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 153 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 154 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 155 [48;2;0;0;0m  [0m 
+112  69  61	SkinTones #Index 156 [48;2;112;69;61m  [0m 
+ 84  51  46	SkinTones #Index 157 [48;2;84;51;46m  [0m 
+ 56  34  31	SkinTones #Index 158 [48;2;56;34;31m  [0m 
+ 26  26  26	SkinTones #Index 159 [48;2;26;26;26m  [0m 
+230  97  95	SkinTones #Index 160 [48;2;230;97;95m  [0m 
+  0   0   0	SkinTones #Index 161 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 162 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 163 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 164 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 165 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 166 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 167 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 168 [48;2;0;0;0m  [0m 
+136 100  93	SkinTones #Index 169 [48;2;136;100;93m  [0m 
+  0   0   0	SkinTones #Index 170 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 171 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 172 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 173 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 174 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 175 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 176 [48;2;0;0;0m  [0m 
+ 69  50  34	SkinTones #Index 177 [48;2;69;50;34m  [0m 
+ 49  34  22	SkinTones #Index 178 [48;2;49;34;22m  [0m 
+ 30  22  18	SkinTones #Index 179 [48;2;30;22;18m  [0m 
+202 103  83	SkinTones #Index 180 [48;2;202;103;83m  [0m 
+  0   0   0	SkinTones #Index 181 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 182 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 183 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 184 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 185 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 186 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 187 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 188 [48;2;0;0;0m  [0m 
+163 120 112	SkinTones #Index 189 [48;2;163;120;112m  [0m 
+  0   0   0	SkinTones #Index 190 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 191 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 192 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 193 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 194 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 195 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 196 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 197 [48;2;0;0;0m  [0m 
+255 136 113	SkinTones #Index 198 [48;2;255;136;113m  [0m 
+  0   0   0	SkinTones #Index 199 [48;2;0;0;0m  [0m 
+153 153 153	SkinTones #Index 200 [48;2;153;153;153m  [0m 
+  0   0   0	SkinTones #Index 201 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 202 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 203 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 204 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 205 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 206 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 207 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 208 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 209 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 210 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 211 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 212 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 213 [48;2;0;0;0m  [0m 
+202 103  83	SkinTones #Index 214 [48;2;202;103;83m  [0m 
+196 122 107	SkinTones #Index 215 [48;2;196;122;107m  [0m 
+230 141  95	SkinTones #Index 216 [48;2;230;141;95m  [0m 
+255 170 153	SkinTones #Index 217 [48;2;255;170;153m  [0m 
+252 156 138	SkinTones #Index 218 [48;2;252;156;138m  [0m 
+255 212 204	SkinTones #Index 219 [48;2;255;212;204m  [0m 
+ 84  51  46	SkinTones #Index 220 [48;2;84;51;46m  [0m 
+  0   0   0	SkinTones #Index 221 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 222 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 223 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 224 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 225 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 226 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 227 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 228 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 229 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 230 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 231 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 232 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 233 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 234 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 235 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 236 [48;2;0;0;0m  [0m 
+245 181 169	SkinTones #Index 237 [48;2;245;181;169m  [0m 
+  0   0   0	SkinTones #Index 238 [48;2;0;0;0m  [0m 
+179 179 179	SkinTones #Index 239 [48;2;179;179;179m  [0m 
+ 56  34  31	SkinTones #Index 240 [48;2;56;34;31m  [0m 
+  0   0   0	SkinTones #Index 241 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 242 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 243 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 244 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 245 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 246 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 247 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 248 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 249 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 250 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 251 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 252 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 253 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 254 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 255 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 256 [48;2;0;0;0m  [0m 
+217 161 149	SkinTones #Index 257 [48;2;217;161;149m  [0m 
+  0   0   0	SkinTones #Index 258 [48;2;0;0;0m  [0m 
+153 153 153	SkinTones #Index 259 [48;2;153;153;153m  [0m 
+  0   0   0	SkinTones #Index 260 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 261 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 262 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 263 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 264 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 265 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 266 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 267 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 268 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 269 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 270 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 271 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 272 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 273 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 274 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 275 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 276 [48;2;0;0;0m  [0m 
+190 141 131	SkinTones #Index 277 [48;2;190;141;131m  [0m 
+  0   0   0	SkinTones #Index 278 [48;2;0;0;0m  [0m 
+153 153 153	SkinTones #Index 279 [48;2;153;153;153m  [0m 
+255 187 153	SkinTones #Index 280 [48;2;255;187;153m  [0m 
+255 161 113	SkinTones #Index 281 [48;2;255;161;113m  [0m 
+230 141  95	SkinTones #Index 282 [48;2;230;141;95m  [0m 
+196 122 107	SkinTones #Index 283 [48;2;196;122;107m  [0m 
+136 100  93	SkinTones #Index 284 [48;2;136;100;93m  [0m 
+112  78  71	SkinTones #Index 285 [48;2;112;78;71m  [0m 
+100  67  60	SkinTones #Index 286 [48;2;100;67;60m  [0m 
+  0   0   0	SkinTones #Index 287 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 288 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 289 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 290 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 291 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 292 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 293 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 294 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 295 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 296 [48;2;0;0;0m  [0m 
+196 122 107	SkinTones #Index 297 [48;2;196;122;107m  [0m 
+  0   0   0	SkinTones #Index 298 [48;2;0;0;0m  [0m 
+128 128 128	SkinTones #Index 299 [48;2;128;128;128m  [0m 
+255 212 204	SkinTones #Index 300 [48;2;255;212;204m  [0m 
+217 161 149	SkinTones #Index 301 [48;2;217;161;149m  [0m 
+196 122 107	SkinTones #Index 302 [48;2;196;122;107m  [0m 
+173 105  72	SkinTones #Index 303 [48;2;173;105;72m  [0m 
+202 142  83	SkinTones #Index 304 [48;2;202;142;83m  [0m 
+173 121  72	SkinTones #Index 305 [48;2;173;121;72m  [0m 
+108  91  75	SkinTones #Index 306 [48;2;108;91;75m  [0m 
+  0   0   0	SkinTones #Index 307 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 308 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 309 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 310 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 311 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 312 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 313 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 314 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 315 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 316 [48;2;0;0;0m  [0m 
+168 105  92	SkinTones #Index 317 [48;2;168;105;92m  [0m 
+  0   0   0	SkinTones #Index 318 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 319 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 320 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 321 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 322 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 323 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 324 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 325 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 326 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 327 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 328 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 329 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 330 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 331 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 332 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 333 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 334 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 335 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 336 [48;2;0;0;0m  [0m 
+140  87  76	SkinTones #Index 337 [48;2;140;87;76m  [0m 
+  0   0   0	SkinTones #Index 338 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 339 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 340 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 341 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 342 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 343 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 344 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 345 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 346 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 347 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 348 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 349 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 350 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 351 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 352 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 353 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 354 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 355 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 356 [48;2;0;0;0m  [0m 
+105  72  65	SkinTones #Index 357 [48;2;105;72;65m  [0m 
+  0   0   0	SkinTones #Index 358 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 359 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 360 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 361 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 362 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 363 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 364 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 365 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 366 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 367 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 368 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 369 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 370 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 371 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 372 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 373 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 374 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 375 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 376 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 377 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 378 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 379 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 380 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 381 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 382 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 383 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 384 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 385 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 386 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 387 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 388 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 389 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 390 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 391 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 392 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 393 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 394 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 395 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 396 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 397 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 398 [48;2;0;0;0m  [0m 
+  0   0   0	SkinTones #Index 399 [48;2;0;0;0m  [0m 

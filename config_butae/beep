@@ -1,1 +1,45 @@
-
+#!/bin/bash
+# 255                              mysmps                      SIMPLE TRI-WAVE SOUND
+#                         <----------------------->            \/\/\/\/\/\/\/\/\/\/\
+#                         .                       .            A beep for bash shell
+#                         |               mypeak  |            for machines without
+# \                       |                       /\           pc speaker beep \007.
+#   \                     |                     /    \ 
+#     \                   |                   /        \       It requires alsa and
+#       \                 |                 /            \     'play' via alsautils.
+#         \               |               /                \
+#           \             |             /                    \
+#126 ---------------------|---------------------------------------------------------
+#               \         |          /                          \
+#                 \       |        /                              \                /
+#                   \     |      /                                  \            /
+#                     \   |    /       When invoking mynote()         \        /
+#                       \    /         mysmps * myslop may not          \    /
+#                         \/           exceed 255.  We entrust            \/
+#                   mytrou             you to use mynote with
+#                                      care & respect for math.
+#                            
+# 1
+mynote() {
+	mysmps=$1               # number of samples before wave reverses (1/2 cycle)
+	myslop=$2                 # vertical step increment of the slope (steepness)
+	mycycl=$3                     # number of times to repeat (duration of beep)
+	mypeak=$((126 + mysmps))
+	mytrou=$((126 - mysmps))
+	for ((i = 1; i <= mycycl; i++)); do                     # outer loop: cycles
+		for ((j = mypeak; j >= mytrou; j -= myslop)); do     # falling slope
+#			printf -v hex %x "$j"                          # hexen magic
+#			printf "\x$hex"
+			printf '\\x%x' "$j" # works
+		done
+		for ((j = mytrou; j <= mypeak; j += myslop)); do      # rising slope
+#			printf -v hex %x "$j"
+#			printf "\x$hex"
+			printf '\\x%x' "$j" # works
+		done
+	done
+}
+bignote=$(mynote 24 4 300)
+#echo -ne "$bignote" > /tmp/beep.raw         # Save for visual inspection or
+#od -tx1 myfun3.raw                          # further adventures in beeping.
+echo -ne "$bignote" | aplay  -t raw -q -f U8 --channels=2 --rate=48000

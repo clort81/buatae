@@ -1,0 +1,40 @@
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ BlapDraw 0.2:    ● quick editing of colored ansi text files in a 24-bit color uxterm terminal!                      ║
+║                                                                                                                     ║
+║ Movement:        ● vi (hjkl) or arrow keys to move drawing cursor (displayed as an animated blinking box)           ║
+║                  ● shifted vi keys (HJKL) to jump-move several rows or columns at a time.                           ║
+║                                                                                                                     ║
+║ Drawing:         ● space key or 'd' key or left mouse click. <Backspace> or 'U' to undo one or more draws.          ║
+║                                                                                                                     ║
+║ Colorizing:      ● "a" key to write foreground color over the fg under the cursor (does not change the glyph)       ║
+║                  ● "s" key to write background color over the bg under the cursor                                   ║
+║                  ● "z" and "a" keys to darken or lighten foreground color under cursor (constrained by palette)     ║
+║                  ● "Z" and "A" keys to darken or lighten background color under cursor                              ║
+║                  ● center mouse click to bring up modal window with colorizing options                              ║
+║                                                                                                                     ║
+║ Extracting:      ● you can 'pick up' the foreground/background color or glyph from the element under the cursor.    ║
+║                  ● to extract an element hit right mouse button for a list of options, or hit 'e' then either:      ║
+║                            ● 'f' to extract fg color and set it to current FG                                       ║
+║                            ● 'b' to extract fg color and set it to current FG                                       ║
+║                            ● 'g' to extract fg color and set it to current FG                                       ║
+║                            ● 'a' to extract all elements - fg, bg colors and current glyph                          ║
+║                                                                                                                     ║
+║ Color selection: ● hit "f" key to select foreground color then hit an alpha key a-z and then a numeric key 1-0 key  ║
+║                    to select a color from palette grid. The selected color will be displayed under the FG field.    ║
+║                  ● hit 'b' key to select a background color, followed likewise by an alpha key and a numeric key.   ║
+║                  ● hit capital "F" or "B"  to choose from a pop-up alphanumeric grid of recent colors.              ║
+║                  ● hit "x" to swap FG/BG color.  hit "o" or "O" to select from color history (recent colors)        ║
+║                  ● left mouse-button on a palette color to select a foreground color, right for background.         ║
+║                  ● right mouse-buttonn on drawing window for context menu to select fg or bg color under cursor     ║
+║                                                                                                                     ║
+║ Glyph selection: ● hit 'c' key to select the current drawing glyph, followed by row number and column letter.       ║
+║                  ● hit capital "C" to choose from a pop-up alphanumeric grid of recent glyphs.                      ║
+║                                                                                                                     ║
+║ Large Pictures:  ● large pictures may be panned by keyboard movement beyond borders or mouse clicks at edges        ║
+║                                                                                                                     ║
+║ Quick History:   ● "q" and "w" keys scroll through a modal window of recently used drawing characters + colors.     ║
+║                                                                                                                     ║
+║ ● menu commands at top respond to Capital key commands and may present modal subwindows with selectable actions.    ║
+║ ● upon file-open, BlapDraw creates a unique backup file with the current date and time appended to the filename.    ║
+║                                                                                                                     ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
