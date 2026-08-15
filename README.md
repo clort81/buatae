@@ -177,7 +177,7 @@ The editor enables **both** X10 (`\e[?1002h`) and SGR (`\e[?1006h`) mouse report
 
 ---
 
-## Pitfalls & Lessons Learned (Critical for Successor LLMs)
+## Some bash Pitfalls & Lessons Learned
 
 1. **Arithmetic Expansion**  
    - Use `$(( ... ))` for arithmetic.
@@ -190,7 +190,7 @@ The editor enables **both** X10 (`\e[?1002h`) and SGR (`\e[?1006h`) mouse report
    - For numeric comparisons, use `(( ... ))` instead of `[[ ... ]]` with `-ge`, especially when variables are array elements.
 
 3. **Mouse Input Handling**  
-   - After a mouse click, leftover bytes may remain in the input buffer. Always flush with `IFS= read -r -t 0 -n 1000 dummy 2>/dev/null || true` before starting a new input mode (e.g., the save dialog).  
+   - After a mouse click, leftover bytes may remain in the input buffer. Always flush before starting a new modal dialog.  
    - Ensure coordinate checks use proper arithmetic: `if (( X >= BBOX_MENUITM[0] + 5 && X <= BBOX_MENUITM[0] + 11 ))`.
 
 4. **Terminal State**  
@@ -198,35 +198,18 @@ The editor enables **both** X10 (`\e[?1002h`) and SGR (`\e[?1006h`) mouse report
    - When using `read -e` for line editing, you must temporarily restore cooked mode, then re‑enter raw mode, and flush the input after.
    - Always disable mouse reporting (`\e[?1002l`) before any modal dialog and re‑enable (`\e[?1002h` and `\e[?1006h`) afterward.
 
-5. **Status Line Overdraw**  
-   - `draw_image` must clear the entire status line (e.g., `printf "%*s" $width ""`) before writing new text; otherwise residual characters appear.
-
-6. **ANSI Parsing**  
-   - The original `load_image` used `IFS=$'\e' read -a fields`; this breaks when an SGR sequence is followed directly by text without a reset. `load_image2` is more robust. It is kept as a separate utility for future integration.
-
-7. **Resize Handling**  
+5. **Resize Handling**  
    - Always re‑read `tput cols/lines` after `SIGWINCH`. Recalculate bounding boxes and redraw all UI elements. Use a flag (`RESIZE_NEEDED`) to avoid blocking in the signal handler.
 
-8. **File Saving & Shadow Files**  
-   - Filename validation regex is strict (`^[a-zA-Z0-9._/-]+$`). If users need spaces, adjust the regex accordingly. Trim leading/trailing whitespace before saving.  
-   - When saving to a new filename, the shadow file is regenerated with the *base image* (the image as loaded) and the current edit history. This ensures the edit log remains consistent.
+6. **File Saving & Shadow Files**  
+   - Filename validation regex is strict (`^[a-zA-Z0-9._/-]+$`). If if you're microsoftian and want spaces in filenames, adjust the regex accordingly. 
+   - When saving to a new filename, a new shadow file is regenerated with the *base image* (the image as loaded) followed by this session's edit history.
 
-9. **Color String Handling**  
-   - Always store RGB triplets without a trailing `m` (e.g., `175;175;175`). Append `m` only when building the full SGR sequence (`\e[38;2;${r};${g};${b}m`). This avoids double‑`m` artifacts.
+7. **Color String Handling**  
+   - Always store RGB triplets without a trailing `m` (e.g., `175;175;175`). Append `m` only when building the full SGR sequence (`\e[38;2;${r};${g};${b}m`). This avoids double‑`m` artifacts.`CURRENT_STEP=$TOTAL_STEPS` or `(( CURRENT_STEP = TOTAL_STEPS ))`.
 
-10. **`TOTAL_STEPS` / `CURRENT_STEP` Numeric Integrity**  
-   - **Always** ensure these variables are defined and numeric before using them in arithmetic or `printf`. Use `: "${TOTAL_STEPS:=0}"` and `: "${CURRENT_STEP:=0}"` at the start of functions that print them, and also coerce with `$(( ... + 0 ))` if there's any risk of a non‑numeric string.
-   - A common mistake is writing `CURRENT_STEP=TOTAL_STEPS` (missing `$`), which assigns the literal string `TOTAL_STEPS` instead of its value. This causes `printf: TOTAL_STEPS: invalid number`. Always use `CURRENT_STEP=$TOTAL_STEPS` or `(( CURRENT_STEP = TOTAL_STEPS ))`.
-
-11. **File Selector Geometry**  
+8. **File Selector Geometry**  
    - The horizontal centering uses `start_x = draw_x + (draw_w - FILE_NUM_COLS * max_w) / 2`. The same `max_w` and `start_x` must be used in both `draw_file_selector` and the mouse‑click mapping in `file_selector`. Inconsistent `max_w` (e.g., computing only over visible files) causes an off‑by‑one column shift.
-
-12. **`local IFS=...` Syntax Error**  
-   - In SGR mouse parsing, `local IFS=';' read -ra parts <<< "$data"` is invalid Bash. Split it into:
-     ```bash
-     local -a parts
-     IFS=';' read -ra parts <<< "$data"
-     ```
 
 ---
 
@@ -234,7 +217,7 @@ The editor enables **both** X10 (`\e[?1002h`) and SGR (`\e[?1006h`) mouse report
 
 This project is a work in progress. If you’d like to contribute feel free to file a PR or an issue.
 
-This editor, like most ANSI‑art editors, eschews some common graphical‑UI patterns, but attempts have been made to keep major functions un‑nested and intuitive. The code is deliberately simple and hackable – it’s Bash, after all.
+Like most ANSI‑art editors this goes its own way and eschews common graphical‑UI patterns, although attempts have been made to keep major functions un‑nested and intuitive. Being bash, code is deliberately simple and intended to be end-user hackable.
 
 ## License
 
