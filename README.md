@@ -20,26 +20,6 @@ Create ANSI art anywhere you have a compatible terminal, e.g. a headless server 
 ./buatae.sh [filename.ans]
 ```
 
-If no filename is given, it opens `default.ans`. Use `-h` or `--help` for a brief usage message.
-
-### Requirements
-
-- Bash 4.0 or later (for associative arrays)
-- A terminal that supports 24‑bit color and mouse reporting
-- Minimum terminal size: **112 columns × 34 rows** for the current palette and glyph selections
-
-### Data Files
-
-buatae loads palettes and brush character sets from `$HOME/.config/buatae/`. Three files are expected:
-
-- `pal-artiste_520-20x26.txt` – a palette of 520 RGB triplets (space‑separated).
-- `chr-deluxe-131x5.bchr` – a glyph grid, each row containing glyphs separated by spaces.
-- `buatae_help.ans` – help text.
-
-You can replace these with your own files. Additional palette/brush files can be added later (menu placeholders exist).
-
-### Basic Controls
-
 | Action | Mouse / Key |
 |--------|-------------|
 | Draw | **Left‑click** in the drawing area - drag-hold to draw continuously |
@@ -56,7 +36,18 @@ You can replace these with your own files. Additional palette/brush files can be
 | Show help | Press `H` |
 | Exit | Press `Q` or `Ctrl+C` |
 
----
+### Requirements
+
+- Bash 4.0 or later (for associative arrays)
+- A terminal that supports 24‑bit color and mouse reporting
+- Minimum terminal size: **112 columns × 34 rows** for the current palette and glyph selections
+
+_buatae_ loads resource files from `$HOME/.config/buatae/`:
+
+- `pal-artiste_520-20x26.txt` – a palette of 520 RGB triplets 
+- `chr-deluxe-131x5.bchr` – a glyph grid
+- `buatae_help.ans` – help text.
+
 
 ## The Undo/Redo & Shadow File System
 
