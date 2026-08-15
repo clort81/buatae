@@ -4,9 +4,13 @@
 
 ## Abstract
 
-**buatae** is a full‑screen terminal art editor written entirely in **Bash**. It turns your terminal into a pixel‑style drawing canvas, using ANSI escape sequences for 24‑bit truecolor, mouse tracking, and cursor movement. The drawing is stored as a grid of glyphs and per‑cell foreground/background colors in associative arrays, making it portable across any terminal that supports modern escape codes (xterm, gnome‑terminal, kitty, urxvt, etc.).
+**buatae** is an ANSI textart editor written entirely in **Bash**.  Development began in 2015 as a way to edit output from the "Chafa" image-to-textart convertor https://github.com/hpjansson/chafa.  Inspired by bruxy ( https://bruxy.regnet.cz/web/ ).
 
-Why another terminal art editor? Because **pure shell** can do it. No ncurses, no Python, no Node – just Bash and standard Unix utilities. buatae is SSH‑friendly, runs on a headless server, and gives you a full‑featured drawing environment with persistent, replayable edit history. It’s for people who like to push the limits of what the shell can do, and for artists who want to create ANSI art anywhere they have a terminal.
+It's UTF-8 and 24-bit color native. Offers mouse tracking for easy selection and drawing.  Works great on a truly compatible terminal emulator (xterm) and somewhat-well on the *lesser* terminal-emulator-approximators (libvte terminals, suckless, gnome‑terminal, kitty, urxvt, etc.).
+
+We wuz into TUI apps before GUI was widely available and are pleeezed that it has become trendy again. 
+
+Create ANSI art anywhere you have a compatible terminal, e.g. a headless server even on a text-only bulletin board system.
 
 ---
 
