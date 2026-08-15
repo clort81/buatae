@@ -4,9 +4,9 @@
 
 ## Abstract
 
-**buatae** is an ANSI textart editor written entirely in **Bash**.  Development began in 2015 as a way to edit output from the "Chafa" image-to-textart convertor https://github.com/hpjansson/chafa.  Inspired by bruxy ( https://bruxy.regnet.cz/web/ ).
+**buatae** is an ANSI textart editor written entirely in **Bash**.  Development began in 2015 as a way to edit output from the "Chafa" image-to-textart convertor https://github.com/hpjansson/chafa.  Inspired by bruxy https://bruxy.regnet.cz/web/ .
 
-It's UTF-8 and 24-bit color native. Offers mouse tracking for easy selection and drawing.  Works great on a truly compatible terminal emulator (xterm) and somewhat-well on the *lesser* terminal-emulator-approximators (libvte terminals, suckless, gnome‑terminal, kitty, urxvt, etc.).
+It's UTF-8 and 24-bit color native. Offers mouse tracking for easy selection and drawing.  Works great on a truly compatible terminal emulator (xterm) and somewhat-well on the *lesser* terminal-emulator-approximators (libvte terminals, gnome‑terminal, xfce-term, kitty, etc.)
 
 We wuz into TUI apps before GUI was widely available and are pleeezed that it has become trendy again. 
 
